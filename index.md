@@ -1,4 +1,4 @@
-[![image](https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png)](https://wcci2022.org/)
+[![image]([https://wcci2022.org/](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg))
 
 ## Aim and Scope
 
