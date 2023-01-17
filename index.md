@@ -33,7 +33,8 @@ The topics of this session include but are not limited to
 - Paper submission: January 31, 2023
 - Notification of acceptance: March 31, 2023
 
-[Submission portal](https://2023.ijcnn.org/authors/paper-submission) 
+[Submission portal](https://2023.ijcnn.org/authors/paper-submission)  
+!!! submit by selecting SI: Social Network Computation for Online Intelligence !!!
 
 
 ## Organizers
