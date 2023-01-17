@@ -1,5 +1,8 @@
 [![image](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg)](https://2023.ijcnn.org/)
 
+## Special Session
+Social Network Computation for Online Intelligence
+
 ## Aim and Scope
 
 Online social life is complex in the data structure, rich in knowledge and challenging in intelligent computation. Computations of human social activities on online social network (OSN) has long been subjective. Measuring online activities is always challenging, yet intelligent computation enhancing, especially in the context of OSN. The unique applicability of modelling complex OSN enables abstracting both temporal and spatial aspects in a complex graph data structure. With the base units of a simple graph, a vast number of variants illustrate the complex interactions of the real-world entities in the spatial aspect, either homogeneous or heterogeneous. For example, the nodes and edges represent the users and the various online social activities in a snapshot of OSN. Under the evolving graph structures, the evolutional patterns represent rich information from the temporal side. Meanwhile, the multimedia contents, e.g., natural language, images and video, denoted as the attributes of the graph entities, increase the difficulties of graph learning. Supported by deep graph neural networks, intelligent methods have been dramatically developed in recent years. Interdisciplinary approaches of intelligent computation explain the complexity and dynamics in network topologies and entity attributions, target fast relevant topologies and attributes, and return more accurate predictions. The special session aims to solicit contributions in intelligent computational frameworks, models, algorithms and applications for quantifying online activities on the OSN.
