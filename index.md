@@ -1,4 +1,4 @@
-[![image][https://2023.ijcnn.org/](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg)
+[![image](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg)](https://2023.ijcnn.org/)
 
 ## Aim and Scope
 
