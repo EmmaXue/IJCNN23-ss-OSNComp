@@ -1,4 +1,4 @@
-[![image][https://wcci2022.org/](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg)
+[![image][https://2023.ijcnn.org/](https://confcats-web-assets.s3.amazonaws.com/ijcnn/ijcnn-logo.svg)
 
 ## Aim and Scope
 
